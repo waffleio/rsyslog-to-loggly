@@ -9,5 +9,6 @@ Container to send rsyslog to loggly
 
 ## Requirements
 * Environmental Variables:
+  * ENVIRONMENT
   * HOSTNAME
   * LOGGLY_TOKEN
